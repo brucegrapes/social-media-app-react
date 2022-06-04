@@ -33,12 +33,7 @@ labels:
     color: "#6F42C1"
     description: "Pull Request has been merged successfully"
     ignore: false
-
-Example
 reviewers:
-  userA:
-    name: "User A"
-    color: "#000000"
   govardanan-sl:
     name: "Govardanan S L"
     color: "#6F42C"
