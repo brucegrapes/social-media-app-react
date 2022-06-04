@@ -44,6 +44,6 @@ reviewers:
   userA:
     name: "User A"
     color: "#000000"
-govardanan-sl:
-  name: "Govardanan S L"
-  color: "#6F42C"
+  govardanan-sl:
+    name: "Govardanan S L"
+    color: "#6F42C"
